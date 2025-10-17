@@ -62,6 +62,5 @@ I have developed a secure, interactive, and fully functional banking system usin
 
 ---
 
-**Supervisor Acknowledgment:**  
-I want to express my sincere thanks to my supervisor, **Ms. Madushani**, for guiding me and providing valuable advice whenever I needed help. Her support was instrumental in completing this project successfully.
+
 
